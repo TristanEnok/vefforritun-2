@@ -9,4 +9,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Tristan Enok!</p>"
+    return "<p>Tristan Enok Kvaran!</p>"
